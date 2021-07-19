@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zwh.iml" filepath="$PROJECT_DIR$/zwh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhCommon/zwhCommon.iml" filepath="$PROJECT_DIR$/zwhCommon/zwhCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhCommonDb/zwhCommonDb.iml" filepath="$PROJECT_DIR$/zwhCommonDb/zwhCommonDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhEureke/zwhEureke.iml" filepath="$PROJECT_DIR$/zwhEureke/zwhEureke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhGateway/zwhGateway.iml" filepath="$PROJECT_DIR$/zwhGateway/zwhGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhService/zwhService.iml" filepath="$PROJECT_DIR$/zwhService/zwhService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhServiceApi/zwhServiceApi.iml" filepath="$PROJECT_DIR$/zwhServiceApi/zwhServiceApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhService/zwhServiceFile/zwhServiceFile.iml" filepath="$PROJECT_DIR$/zwhService/zwhServiceFile/zwhServiceFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhServiceApi/zwhServiceGoodApi/zwhServiceGoodApi.iml" filepath="$PROJECT_DIR$/zwhServiceApi/zwhServiceGoodApi/zwhServiceGoodApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhService/zwhServiceGoods/zwhServiceGoods.iml" filepath="$PROJECT_DIR$/zwhService/zwhServiceGoods/zwhServiceGoods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zwhweb/zwhweb.iml" filepath="$PROJECT_DIR$/zwhweb/zwhweb.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+# Project exclude paths
+/zwhCommon/target/
+/zwhEureke/target/
+/zwhService/zwhServiceGoods/target/
+/zwhServiceApi/zwhServiceGoodApi/target/

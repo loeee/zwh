@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zwhCommonDb" />
+        <module name="zwhServiceFile" />
+        <module name="zwhCommon" />
+        <module name="zwhServiceGoodApi" />
+        <module name="zwhweb" />
+        <module name="zwhGateway" />
+        <module name="zwhEureke" />
+        <module name="zwhServiceGoods" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zwh" target="1.8" />
+      <module name="zwhCommon" target="1.8" />
+      <module name="zwhCommonDb" target="8" />
+      <module name="zwhEureka" target="1.8" />
+      <module name="zwhEureke" target="1.8" />
+      <module name="zwhGateway" target="1.8" />
+      <module name="zwhService" target="8" />
+      <module name="zwhServiceApi" target="8" />
+      <module name="zwhServiceFile" target="1.7" />
+      <module name="zwhServiceGoodApi" target="8" />
+      <module name="zwhServiceGoods" target="1.7" />
+      <module name="zwhweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="zwh" options="-parameters" />
+      <module name="zwhCommon" options="-parameters" />
+      <module name="zwhCommonDb" options="-parameters" />
+      <module name="zwhEureka" options="-parameters" />
+      <module name="zwhEureke" options="-parameters" />
+      <module name="zwhGateway" options="-parameters" />
+      <module name="zwhService" options="-parameters" />
+      <module name="zwhServiceApi" options="-parameters" />
+      <module name="zwhServiceFile" options="-parameters" />
+      <module name="zwhServiceGoodApi" options="-parameters" />
+      <module name="zwhServiceGoods" options="-parameters" />
+      <module name="zwhweb" options="-parameters" />
+    </option>
+  </component>
+</project>
